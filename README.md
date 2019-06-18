@@ -15,7 +15,7 @@ An in-depth paragraph about your project and overview of use.
 * Describe any prerequisites, libraries, OS version, etc., needed before installing program.
 * ex. Windows 10
 
-Ising CSS3 & HTML5 latest features. Be sure to prefix any bleeding edge tules, tags, etc (see caniuse for reference). Also, using es6/next, your should probably think about including Babel for transpilation ( or an NPM script)
+Ising CSS3 & HTML5 latest features. Be sure to prefix any bleeding edge tules, tags, etc (see [caniuse](https://caniuse.com/) for reference). Also, using es6/next, your should probably think about including [Babel](https://babeljs.io/) for transpilation ( or an NPM script)
 
 ### Installing
 
