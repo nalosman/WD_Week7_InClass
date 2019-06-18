@@ -1,5 +1,5 @@
 Web Development Week 7 - In Class Work/lesson
-
+[TRAA LOGO](WD_Week7_InClass/images/logo.jpg)
 # TRAA Midterm Review
 
 going over some parts we got wrong
