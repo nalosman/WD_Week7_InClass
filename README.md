@@ -1,5 +1,8 @@
 Web Development Week 7 - In Class Work/lesson
-[TRAA LOGO](WD_Week7_InClass/images/logo.jpg)
+
+
+![TRAA Logo](WD_Week7_InClass/images/logo.jpg)
+Format: ![TRAA Logo](http://www.anglers.org/)
 # TRAA Midterm Review
 
 going over some parts we got wrong
